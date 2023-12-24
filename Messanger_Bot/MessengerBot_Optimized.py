@@ -75,4 +75,5 @@ def function():
     bot1.SendMessageTo('Smey', 'test', 2)
 
     bot1.StartOperation()
+function()
 
