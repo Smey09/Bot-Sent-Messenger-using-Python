@@ -65,12 +65,12 @@ password = 'YourFacebookPassword'
 <p>Run the code:</p>
 
 <ol>
-  <li>Execute the code in your editor.</li>
+  <li>Execute the code in your editor.(Run Code)</li>
   <li>If you see a notification, click "OK".</li>
-  <li>If you encounter macOS security restrictions:
+  <li>How to fix this notification on macOS:
     <ol>
-      <li>Open System Preferences.</li>
-      <li>Go to Privacy & Security.</li>
+      <li>Open Mac Setting.</li>
+      <li>Go to 'Privacy & Security'.</li>
       <li>Scroll down and click "Allow Anyway".</li>
       <img width="496" alt="Pro" src="https://github.com/Smey09/My-Image/assets/149933218/62fa744a-4c33-4717-bb74-a1c8d9a3cf64">
     </ol>
