@@ -15,4 +15,25 @@ How to install and run this code :
     pip3 install webdriver
     pip3 install selenium
 #Step 4
+-Correct your information include:
+  * Correnct your gmail and password of your facebook account, Open file(FacebookAccountInfo.py)
+    # input your email
+    username = 'Your Gamil'
+    # input your password
+    password = 'Your Passwors'
+  * Open file(MessengerBot_Optimized.py)
+    # On line 74 you will see :
+    bot1.SendMessageTo('Smey', 'test',1)
+     - Smey = Your friend's Name On facebook
+     - test = Text that you want to sent
+     - 1 = how many message that you want to sent
+ #Step 5
+ run this code, if you see notification please click on Ok,
+ * How to fix this notification on macOS
+   -open your Mac setting, find Privacy & Security
+   -Click on 'Privacy & Security'
+   - scroll down ...
+   - Click on 'Allow anyway'
+   
+    
 
