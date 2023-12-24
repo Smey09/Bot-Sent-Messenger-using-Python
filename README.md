@@ -72,6 +72,7 @@ password = 'YourFacebookPassword'
       <li>Open System Preferences.</li>
       <li>Go to Privacy & Security.</li>
       <li>Scroll down and click "Allow Anyway".</li>
+      <img width="496" alt="Pro" src="https://github.com/Smey09/My-Image/assets/149933218/62fa744a-4c33-4717-bb74-a1c8d9a3cf64">
     </ol>
   </li>
 </ol>
